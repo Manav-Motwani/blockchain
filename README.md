@@ -12,4 +12,4 @@ Here is a image
 
 And Here is demo Video
 
-![Working Code](https://github.com/Manav-Motwani/blockchain/blob/master/demo%20video.avi)
+![Working Code](demo-video.gif)
